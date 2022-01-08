@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir /etc/v2ray
 mkdir /etc/xray
 clear
